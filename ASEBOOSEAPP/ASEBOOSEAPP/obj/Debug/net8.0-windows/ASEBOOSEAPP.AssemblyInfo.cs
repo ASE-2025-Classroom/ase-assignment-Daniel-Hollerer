@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASEBOOSEAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66fd0d6eb821351419145b1b68c13d51fc67fa38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971f2d80a196ef1867f40e943b21af274da29a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASEBOOSEAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASEBOOSEAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
